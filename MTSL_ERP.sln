@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTSL_ERP.API", "src\MTSL_ERP.API\MTSL_ERP.API.csproj", "{7D70ED51-3EE1-490C-B5C7-5CD2B82C178E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{D183CA16-759B-4469-B3F2-F79463693B51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrintingFactoryManagement", "PrintingFactoryManagement", "{C2F32A9E-0F93-47A7-BB02-3A0D868DE255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingFactoryManagement.HttpApi", "PrintingFactoryManagement.HttpApi\PrintingFactoryManagement.HttpApi.csproj", "{9E3FC15D-6324-4F6A-9C0B-6CFB34FA6934}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SewingMachineManagement", "SewingMachineManagement", "{CD8B0833-FB9E-42B6-BF1B-606CC8EB2FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingMachineManagement.HttpApi", "SewingMachineManagement.HttpApi\SewingMachineManagement.HttpApi.csproj", "{C10512E9-11DA-452D-808F-7A36CF4636F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D70ED51-3EE1-490C-B5C7-5CD2B82C178E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D70ED51-3EE1-490C-B5C7-5CD2B82C178E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D70ED51-3EE1-490C-B5C7-5CD2B82C178E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D70ED51-3EE1-490C-B5C7-5CD2B82C178E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3FC15D-6324-4F6A-9C0B-6CFB34FA6934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3FC15D-6324-4F6A-9C0B-6CFB34FA6934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3FC15D-6324-4F6A-9C0B-6CFB34FA6934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3FC15D-6324-4F6A-9C0B-6CFB34FA6934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10512E9-11DA-452D-808F-7A36CF4636F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10512E9-11DA-452D-808F-7A36CF4636F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10512E9-11DA-452D-808F-7A36CF4636F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10512E9-11DA-452D-808F-7A36CF4636F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2F32A9E-0F93-47A7-BB02-3A0D868DE255} = {D183CA16-759B-4469-B3F2-F79463693B51}
+		{9E3FC15D-6324-4F6A-9C0B-6CFB34FA6934} = {C2F32A9E-0F93-47A7-BB02-3A0D868DE255}
+		{CD8B0833-FB9E-42B6-BF1B-606CC8EB2FC9} = {D183CA16-759B-4469-B3F2-F79463693B51}
+		{C10512E9-11DA-452D-808F-7A36CF4636F3} = {CD8B0833-FB9E-42B6-BF1B-606CC8EB2FC9}
+	EndGlobalSection
+EndGlobal

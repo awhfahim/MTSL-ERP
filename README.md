@@ -1,1 +1,1 @@
-# MTSL-ERP
+# ModularMonolith
