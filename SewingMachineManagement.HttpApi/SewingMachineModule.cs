@@ -1,5 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-using Microsoft.OpenApi.Models;
+﻿using Microsoft.AspNetCore.Mvc.Controllers;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace SewingMachineManagement.HttpApi;
 
@@ -7,10 +7,23 @@ public static class SewingMachineModule
 {
     public static void AddSewingMachineModule(this IServiceCollection services)
     {
-        services.AddSwaggerGen(cfg =>
+        services.AddSwaggerGen(c =>
         {
-            cfg.SwaggerDoc("v1", new OpenApiInfo { Title = "Main API", Version = "v1" });
-            cfg.SwaggerDoc("SewingMachine", new OpenApiInfo { Title = "Sewing Machine API", Version = "v1" });
+            c.TagActionsBy(api =>
+            {
+                if (api.GroupName != null)
+                {
+                    return new[] { api.GroupName };
+                }
+
+                if (api.ActionDescriptor is ControllerActionDescriptor controllerActionDescriptor)
+                {
+                    return new[] { controllerActionDescriptor.ControllerName };
+                }
+
+                throw new InvalidOperationException("Unable to determine tag for endpoint.");
+            });
+            c.DocInclusionPredicate((name, api) => true);
         });
     }
 }

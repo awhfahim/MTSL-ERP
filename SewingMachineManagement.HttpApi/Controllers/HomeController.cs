@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace SewingMachineManagement.HttpApi.Controllers;
@@ -8,6 +9,7 @@ namespace SewingMachineManagement.HttpApi.Controllers;
 public class HomeController: ControllerBase
 {
     [HttpGet]
+    [ProducesResponseType(StatusCodes.Status200OK)]
     public IActionResult Index()
     {
         return Ok("Hello World from SewingMachineManagement");
