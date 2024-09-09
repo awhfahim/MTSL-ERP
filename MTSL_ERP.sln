@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SewingMachineManagement", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewingMachineManagement.HttpApi", "SewingMachineManagement.HttpApi\SewingMachineManagement.HttpApi.csproj", "{C10512E9-11DA-452D-808F-7A36CF4636F3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{4AB138AD-40A0-4FAE-B287-360385DCD107}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

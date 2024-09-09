@@ -1,0 +1,13 @@
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\bin\Debug\net8.0\SewingMachineManagement.HttpApi.deps.json
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\bin\Debug\net8.0\SewingMachineManagement.HttpApi.dll
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\bin\Debug\net8.0\SewingMachineManagement.HttpApi.pdb
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\SewingMachineManagement.HttpApi.csproj.AssemblyReference.cache
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\SewingMachineManagement.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\SewingMachineManagement.HttpApi.AssemblyInfoInputs.cache
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\SewingMachineManagement.HttpApi.AssemblyInfo.cs
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\SewingMachineManagement.HttpApi.csproj.CoreCompileInputs.cache
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\SewingMachineManagement.HttpApi.sourcelink.json
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\SewingMachineManagement.HttpApi.dll
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\refint\SewingMachineManagement.HttpApi.dll
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\SewingMachineManagement.HttpApi.pdb
+D:\MTSL-ERP\SewingMachineManagement.HttpApi\obj\Debug\net8.0\ref\SewingMachineManagement.HttpApi.dll

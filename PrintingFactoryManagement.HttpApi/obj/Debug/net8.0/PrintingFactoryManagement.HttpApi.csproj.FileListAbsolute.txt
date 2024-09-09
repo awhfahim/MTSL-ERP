@@ -1,0 +1,13 @@
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\bin\Debug\net8.0\PrintingFactoryManagement.HttpApi.deps.json
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\bin\Debug\net8.0\PrintingFactoryManagement.HttpApi.dll
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\bin\Debug\net8.0\PrintingFactoryManagement.HttpApi.pdb
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\PrintingFactoryManagement.HttpApi.csproj.AssemblyReference.cache
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\PrintingFactoryManagement.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\PrintingFactoryManagement.HttpApi.AssemblyInfoInputs.cache
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\PrintingFactoryManagement.HttpApi.AssemblyInfo.cs
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\PrintingFactoryManagement.HttpApi.csproj.CoreCompileInputs.cache
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\PrintingFactoryManagement.HttpApi.sourcelink.json
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\PrintingFactoryManagement.HttpApi.dll
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\refint\PrintingFactoryManagement.HttpApi.dll
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\PrintingFactoryManagement.HttpApi.pdb
+D:\MTSL-ERP\PrintingFactoryManagement.HttpApi\obj\Debug\net8.0\ref\PrintingFactoryManagement.HttpApi.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MTSL_ERP.API.props" />
+</Project>

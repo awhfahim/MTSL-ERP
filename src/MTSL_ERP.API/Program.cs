@@ -1,4 +1,3 @@
-using PrintingFactoryManagement.HttpApi;
 using SewingMachineManagement.HttpApi;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,7 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddSewingMachineModule();
-builder.Services.AddPrintingModule();
+//builder.Services.AddPrintingModule();
 
 var app = builder.Build();
 
